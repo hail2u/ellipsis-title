@@ -1,0 +1,24 @@
+{
+  "name": "@hail2u/ellipsis-title",
+  "description": "Put `title` attribute to elements that have `text-overflow: ellipsis`",
+  "version": "0.0.0",
+  "author": "Kyo Nagashima <hail2u@gmail.com> (https://kyonagashima.com/)",
+  "bugs": {
+    "url": "https://github.com/hail2u/ellipsis-title/issues"
+  },
+  "homepage": "https://github.com/hail2u/ellipsis-title#readme",
+  "keywords": [
+    "ellipsis",
+    "html"
+  ],
+  "license": "MIT",
+  "main": "src/ellipsis-title.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hail2u/ellipsis-title.git"
+  },
+  "scripts": {
+    "build": "cp src/ellipsis-title.js dist/ellipsis-title.js && cd dist/ && uglifyjs --output ellipsis-title.min.js --source-map ellipsis-title.min.js.map ellipsis-title.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
