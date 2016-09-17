@@ -1,7 +1,7 @@
 {
   "name": "@hail2u/ellipsis-title",
   "description": "Put `title` attribute to elements that have `text-overflow: ellipsis`",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Kyo Nagashima <hail2u@gmail.com> (https://kyonagashima.com/)",
   "bugs": {
     "url": "https://github.com/hail2u/ellipsis-title/issues"
