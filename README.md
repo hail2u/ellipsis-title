@@ -1,5 +1,5 @@
-Abbread
-=======
+Ellipsis Title
+==============
 
 Put `title` attribute to elements that have `text-overflow: ellipsis`
 
