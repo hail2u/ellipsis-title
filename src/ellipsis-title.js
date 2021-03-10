@@ -1,7 +1,7 @@
 /*!
  * ellipsis-title.js
  *
- * LICENSE: http://hail2u.mit-license.org/2016
+ * LICENSE: MIT
  */
 "use strict";
 
